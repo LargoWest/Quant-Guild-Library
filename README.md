@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **60.** [Is Trading Gambling? Quant Proves It's Not With Math & Logic](https://youtu.be/GvX8Ragl3ZU)
-- **59.** [Brownian Motion for Quant Finance](https://youtu.be/jiAdz9W4aDI)
+- **61.** [Central Limit Theorem for Quant Finance](https://youtu.be/q2era-4pnic)
 
 **Previous:**
+- **60.** [Is Trading Gambling? Quant Proves It's Not With Math & Logic](https://youtu.be/GvX8Ragl3ZU)
+- **59.** [Brownian Motion for Quant Finance](https://youtu.be/jiAdz9W4aDI)
 - **58.** [Why Quant Models Break](https://youtu.be/brdG1TmsPlw)
 - **57.** [Banks are Just Casinos (Quant Explains Why)](https://youtu.be/gG9Xsvgqvp4)
 - **56.** [Quant Busts 3 Trading Myths with Math](https://youtu.be/wJfIk3VnubE)
