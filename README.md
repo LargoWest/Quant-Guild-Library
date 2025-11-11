@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **62.** [My Life as a Quant](https://youtu.be/n1Z90Iwc_co)
-- **61.** [Central Limit Theorem for Quant Finance](https://youtu.be/q2era-4pnic)
+- **63.** [Neural Networks for Quant Finance](https://youtu.be/Gyfa3aBJiwE)
 
 **Previous:**
+- **62.** [My Life as a Quant](https://youtu.be/n1Z90Iwc_co)
+- **61.** [Central Limit Theorem for Quant Finance](https://youtu.be/q2era-4pnic)
 - **60.** [Is Trading Gambling? Quant Proves It's Not With Math & Logic](https://youtu.be/GvX8Ragl3ZU)
 - **59.** [Brownian Motion for Quant Finance](https://youtu.be/jiAdz9W4aDI)
 - **58.** [Why Quant Models Break](https://youtu.be/brdG1TmsPlw)
@@ -34,7 +35,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 - **50.** [Why Poker Pros Make the Best Traders (It's NOT Luck)](https://youtu.be/JuD3KGQhofw)
 - **49.** [Markov Chains for Quant Finance](https://youtu.be/k8oQfd6M5sA)
 - **48.** [Why Trading Metrics are Misleading (Unless This is True)](https://youtu.be/xziwmju7x2s)
-- **47** [Master Volatility with ARCH & GARCH Models](https://youtu.be/iImtlBRcczA)
+- **47.** [Master Volatility with ARCH & GARCH Models](https://youtu.be/iImtlBRcczA)
 - **46.** [Is Trading Luck or Skill? Quant Debunks Trading Gurus with Math](https://youtu.be/czEyUZabE2U)
 - **45.** [How to Build an Options Volatility Trading Tool in Python with Interactive Brokerss](https://youtu.be/ZF4Eci5casc)
 - **44.** [Time Series Analysis for Quant Finance](https://youtu.be/JwqjuUnR8OY)
