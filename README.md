@@ -17,10 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **66.** [How I Cracked the Quant Interview](https://youtu.be/vygK0EXY8ZI)
-- **65.** [Natural Language Processing (NLP) for Quant Trading](https://youtu.be/6llKh4kQBYs)
+- **67.** [How Physics Accidentally Proved the Black-Scholes Model](https://youtu.be/IIzGqL3ChEs)
 
 **Previous:**
+- **66.** [How I Cracked the Quant Interview](https://youtu.be/vygK0EXY8ZI)
+- **65.** [Natural Language Processing (NLP) for Quant Trading](https://youtu.be/6llKh4kQBYs)
 - **64.** [Books that Made Me a Quant](https://youtu.be/izuZqWz-Dpg)
 - **63.** [Neural Networks for Quant Finance](https://youtu.be/n5acv8R-lN8)
 - **62.** [My Life as a Quant](https://youtu.be/n1Z90Iwc_co)
