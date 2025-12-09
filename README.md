@@ -17,9 +17,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **69.** [Quant Explains Algorithmic Market-Making](https://youtu.be/aVzFKwyzwM0)
+- **71.** [Why Your Backtests are Wrong | Markov Property for Quant Trading](https://youtu.be/w-EbZ6Xct_E)
 
 **Previous:**
+- **70.** [Non-Target to Quant: How to Get a Quant Job in 3 Steps](https://youtu.be/qBSrjoTdQpA)
+- **69.** [Quant Explains Algorithmic Market-Making](https://youtu.be/aVzFKwyzwM0)
 - **68.** [I Ranked the Best College Majors for Becoming a Quant](https://youtu.be/DL_mG-RUFlQ)
 - **67.** [How Physics Accidentally Proved the Black-Scholes Model](https://youtu.be/IIzGqL3ChEs)
 - **66.** [How I Cracked the Quant Interview](https://youtu.be/vygK0EXY8ZI)
