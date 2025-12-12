@@ -17,6 +17,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
+- **72.** [How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers | Part 1](https://youtu.be/mais1dsB_1g)
 - **71.** [Why Your Backtests are Wrong | Markov Property for Quant Trading](https://youtu.be/w-EbZ6Xct_E)
 
 **Previous:**
