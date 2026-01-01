@@ -16,12 +16,17 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 ---
 
-### 📅 2025 Video Lectures (Newest First)
+### 📅 2026 Video Lectures (Newest First)
 
 **Latest:**
-- **77.** [Profitable vs Tradable: Why Most Strategies Fail Live](https://youtu.be/fzz22JNg9HE)
+- **78.** [Quant Explains Alpha in 3 Minutes](https://youtu.be/Ivz58kZLD2U)
+
 
 **Previous:**
+
+### 📅 2025 Video Lectures (Newest First)
+
+- **77.** [Profitable vs Tradable: Why Most Strategies Fail Live](https://youtu.be/fzz22JNg9HE)
 - **76.** [I Built the Quant Roadmap](https://youtu.be/kLJEXE5_7rI)
 - **75.** [Quant Explains Backtesting with Poker](https://youtu.be/xJJ1nWj9Rto)
 - **74.** [How to Build a Markov Chain Regime Switching Bot in Python with Interactive Brokers | Part 2](https://youtu.be/CkXljL6eI5A)
